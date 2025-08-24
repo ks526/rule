@@ -1,7 +1,7 @@
 # Pt列表
 
 #cf
-DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
 
 # tracker
 DOMAIN-KEYWORD,tracker
